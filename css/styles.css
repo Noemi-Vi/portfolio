@@ -82,6 +82,7 @@ h1 {
 h2 {
   font-family: "WorkSans-Bold";
   font-size: 25px;
+  margin-bottom: 3px;
 }
 .project p {
   font-family: "WorkSans-Regular";
