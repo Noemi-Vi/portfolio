@@ -69,6 +69,7 @@ main > header {
   height: 269px;
   object-fit: cover;
   border-radius: 100%;
+  flex-shrink: 0;
 }
 
 h1 {
