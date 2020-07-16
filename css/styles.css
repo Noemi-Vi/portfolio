@@ -152,6 +152,7 @@ footer {
   
   body > header {
     flex-wrap: wrap;
+    justify-content: center;
   }
   .container {
     display: flex;
